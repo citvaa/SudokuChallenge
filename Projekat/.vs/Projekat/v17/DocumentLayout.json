@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Documents\\fax\\3. semestar\\oop2\\Projektni_zadatak\\SV45-2022_Vuk_Vicentic\\Projekat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D3CB76-ABF3-4689-87C4-81F3F796A1DC}|Projekat.vcxproj|C:\\Documents\\fax\\3. semestar\\oop2\\Projektni_zadatak\\SV45-2022_Vuk_Vicentic\\Projekat\\Projekat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0D3CB76-ABF3-4689-87C4-81F3F796A1DC}|Projekat.vcxproj|solutionrelative:Projekat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D3CB76-ABF3-4689-87C4-81F3F796A1DC}|Projekat.vcxproj|C:\\Documents\\fax\\3. semestar\\oop2\\Projektni_zadatak\\SV45-2022_Vuk_Vicentic\\Projekat\\Sudoku9.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0D3CB76-ABF3-4689-87C4-81F3F796A1DC}|Projekat.vcxproj|solutionrelative:Sudoku9.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D3CB76-ABF3-4689-87C4-81F3F796A1DC}|Projekat.vcxproj|C:\\Documents\\fax\\3. semestar\\oop2\\Projektni_zadatak\\SV45-2022_Vuk_Vicentic\\Projekat\\Sudoku9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0D3CB76-ABF3-4689-87C4-81F3F796A1DC}|Projekat.vcxproj|solutionrelative:Sudoku9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sudoku9.hpp",
+              "DocumentMoniker": "C:\\Documents\\fax\\3. semestar\\oop2\\Projektni_zadatak\\SV45-2022_Vuk_Vicentic\\Projekat\\Sudoku9.hpp",
+              "RelativeDocumentMoniker": "Sudoku9.hpp",
+              "ToolTip": "C:\\Documents\\fax\\3. semestar\\oop2\\Projektni_zadatak\\SV45-2022_Vuk_Vicentic\\Projekat\\Sudoku9.hpp",
+              "RelativeToolTip": "Sudoku9.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-23T19:34:37.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sudoku9.cpp",
+              "DocumentMoniker": "C:\\Documents\\fax\\3. semestar\\oop2\\Projektni_zadatak\\SV45-2022_Vuk_Vicentic\\Projekat\\Sudoku9.cpp",
+              "RelativeDocumentMoniker": "Sudoku9.cpp",
+              "ToolTip": "C:\\Documents\\fax\\3. semestar\\oop2\\Projektni_zadatak\\SV45-2022_Vuk_Vicentic\\Projekat\\Sudoku9.cpp",
+              "RelativeToolTip": "Sudoku9.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-23T19:34:29.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projekat.cpp",
+              "DocumentMoniker": "C:\\Documents\\fax\\3. semestar\\oop2\\Projektni_zadatak\\SV45-2022_Vuk_Vicentic\\Projekat\\Projekat.cpp",
+              "RelativeDocumentMoniker": "Projekat.cpp",
+              "ToolTip": "C:\\Documents\\fax\\3. semestar\\oop2\\Projektni_zadatak\\SV45-2022_Vuk_Vicentic\\Projekat\\Projekat.cpp",
+              "RelativeToolTip": "Projekat.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-23T19:33:40.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

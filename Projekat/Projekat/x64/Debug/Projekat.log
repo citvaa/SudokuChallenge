@@ -1,0 +1,5 @@
+﻿  Projekat.cpp
+  Sudoku9.cpp
+C:\Documents\fax\3. semestar\oop2\Projektni_zadatak\SV45-2022_Vuk_Vicentic\Projekat\Sudoku9.cpp(171,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Projekat.vcxproj -> C:\Documents\fax\3. semestar\oop2\Projektni_zadatak\SV45-2022_Vuk_Vicentic\Projekat\x64\Debug\Projekat.exe
